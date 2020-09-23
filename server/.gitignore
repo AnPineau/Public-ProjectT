@@ -1,0 +1,4 @@
+# Uncomment /client to push to production
+#/client
+node_modules
+.env

@@ -1,0 +1,52 @@
+
+Current : Google oauth20 > google auth weird error
+------------------- TODO -------------------
+
+    Backend: 
+        - Google Auth (passport)
+       
+    Frontend:
+        - Make EACH page RESPONSIVE / MOBILE FRIENDLY
+            Header (Navbar)
+            CreateView
+            Stats
+        - Change colors and some css to fit Figma mockups
+
+
+    Optimisations:
+        - Image cropper / Image resizer
+        - Image size optimizer ?
+
+    Preproduction:
+        - Ads (google or amazon)
+        - Remove comments?
+        - Remove console.log (frontend) and (backend?)
+        - Make it so that only username is given when calling
+
+------------------- Questions to ask -------------------
+
+    Questions preproduction:
+        - Show website to gonzs
+        - Stats they want to see
+        - Categories they wanna see?
+        - Colors / themes
+    
+------------------- TODO - Post Release  -------------------
+
+    Optimisation pre OU post Preproduction:
+        - Change/Add category system
+        - Languages support (FR!!)
+        - Add MofifyView to modify a tournoi?
+        - Homepage (BrowseView) scroll page that loads when you scroll
+
+------------------- TODO - If website is actually used by people -------------------
+
+    Amelioration pages:
+        - StatsViews
+        - 16e de finale ? (round of sixteen?)
+
+    Si le site a du monde:
+        - Ban tournois / images including => Amazon Rekognition (Nudity, Violence etc..) (suggestive content is ok)
+        - Bad words in test cases
+        - Report system
+        - Income system (premium features? unlimited number of tournoi etc..)
